@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Mohamed+Acharouaou;I'm+a+Full+Stack+Developer:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nabil+El+Hakimi;I'm+a+Full+Stack+Developer:%29)](https://git.io/typing-svg)
  
           
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e475ttx9b2j00ehzovokqjeyo1dmws3w2fb5wbqyzi4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -9,11 +9,11 @@
       
 - 🔭 I’m currently studying IN **YOUCODE SCHOOL**
 
-- 📫 How to reach me **acharouaoumohamed@gmail.com**
+- 📫 How to reach me **nabil20000324@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohamed-acharouaou-675a58293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed acharouaou" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nabil-el-hakimi-91a69a285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed acharouaou" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Simo_Ach777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@simo_ach777" height="30" width="40" /></a>
 </p>
 
