@@ -9,7 +9,6 @@
       
 - 🔭 I’m currently studying IN **YOUCODE SCHOOL**
 
-- 📫 How to reach me <a>elhakimi.me</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
