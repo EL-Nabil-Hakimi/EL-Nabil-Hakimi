@@ -9,7 +9,7 @@
       
 - 🔭 I’m currently studying IN **YOUCODE SCHOOL**
 
-- 📫 How to reach me **Hakimi.deve@gmail.com**
+- 📫 How to reach me **elhakimi.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
